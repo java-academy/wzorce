@@ -1,0 +1,4 @@
+= Wzorce projektowe
+
+. Strategia
+. Dekorator
